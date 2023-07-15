@@ -1,9 +1,1 @@
-# Ignore all files and folders that start with ".git"
-*.git
-
-# Ignore all temporary files
-*.tmp
-*.DS_Store
-
-# Ignore the Womens Clothing Reviews Data.xlsx file
-D:\Computer Science\Data Science\project\data\Womens Clothing Reviews Data.xlsx
+Data/constant_data.py
